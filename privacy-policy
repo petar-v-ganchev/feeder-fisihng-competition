@@ -1,1 +1,158 @@
+# Privacy Policy for Feeder Fishing Competition
 
+**Last updated:** March 2, 2025
+
+**Developer:** Feeder Fishing Competition  
+**App package:** com.feederfishingcompetition  
+**Platform:** Android (React Native)
+
+---
+
+## 1. Introduction
+
+Feeder Fishing Competition ("we," "our," or "the app") is a competitive feeder fishing game. This Privacy Policy describes how we collect, use, and protect your information when you use our app.
+
+By using Feeder Fishing Competition, you agree to this Privacy Policy. If you do not agree, please do not use the app.
+
+---
+
+## 2. Information We Collect
+
+### 2.1 Account and Profile Data (when you register or log in)
+
+- **Email address**
+- **Password** (stored in hashed form only; we never store your plaintext password)
+- **Display name / nickname** (3–15 characters, chosen by you)
+- **Country** (for country-based leaderboards and matchmaking)
+
+### 2.2 Game Data
+
+- Match history (practice and live matches)
+- Tackle inventory and loadouts
+- In-game currency (euros)
+- Daily challenge progress and rewards
+- Live match participation (display name, country, loadout, catches, scores)
+- Leaderboard stats (display name, rank, wins, matches played, win ratio)
+
+### 2.3 Technical Data
+
+- **Session tokens** – Stored locally so you stay logged in
+- **Device identifiers** – Used for app updates (OTA) and compatibility checks
+- **Locale / language** – To provide localized content
+
+### 2.4 Data Stored Locally on Your Device
+
+- Session and authentication state
+- Tackle loadouts and preferences
+- Daily reward and challenge progress (when offline)
+
+---
+
+## 3. How We Use Your Information
+
+- **To provide the game** – Run your account, matches, leaderboards, and daily challenges
+- **To enable multiplayer** – Show your display name and country to other players in live matches and on leaderboards
+- **To improve the app** – Fix bugs and deliver updates over the air (OTA)
+- **To communicate** – Send account-related notices (e.g., password reset) if you request them
+
+We do not sell your personal data to third parties.
+
+---
+
+## 4. Third-Party Services
+
+We use the following providers to run the app:
+
+| Service          | Purpose                         | Data shared                              |
+|------------------|----------------------------------|------------------------------------------|
+| **Supabase**     | Authentication, database, realtime | Account data, game data, match data     |
+| **Revopush (Code Push)** | Over-the-air app updates    | Device/app identifiers for update delivery |
+
+These providers process data according to their own privacy policies. Supabase hosts data in the cloud; Revopush delivers update packages and may collect basic device information for that purpose.
+
+---
+
+## 5. Who Can See Your Data
+
+- **Other players** – Your display name and country are visible in live matches and on leaderboards. Match results (rank, weight, catches) are visible to participants and in leaderboard stats.
+- **Us** – We have access to account and game data to operate and maintain the service.
+- **Service providers** – Supabase and Revopush process data as necessary to provide their services.
+
+---
+
+## 6. Data Retention
+
+- **Account data** – Retained while your account is active. When you delete your account, we remove your profile, match history, and related game data as described in Section 7.
+- **Session data** – Stored locally on your device; you can clear it by logging out or uninstalling the app.
+
+---
+
+## 7. Your Rights and Choices
+
+### 7.1 Account Deletion
+
+You may delete your account at any time from within the app (Profile → Settings). This removes:
+
+- Your profile (email, display name, country)
+- Your match history and leaderboard entries
+- Your tackle inventory and game progress
+
+After deletion, you will not be able to recover this data.
+
+### 7.2 Profile Updates
+
+You can change your display name and country in the app (Profile → Edit profile).
+
+### 7.3 Access and Portability
+
+To request a copy of your data, contact us using the details in Section 10.
+
+### 7.4 European Users (GDPR)
+
+If you are in the European Economic Area (EEA), you have the right to:
+
+- Access, correct, or delete your personal data
+- Object to or restrict processing
+- Data portability
+- Lodge a complaint with your local data protection authority
+
+### 7.5 California Users (CCPA)
+
+California residents may have additional rights, including the right to know what data is collected and to request deletion. We do not sell personal information.
+
+---
+
+## 8. Security
+
+We use industry-standard practices to protect your data:
+
+- Passwords are hashed and never stored in plaintext
+- HTTPS is used for all network communication
+- Access to data is restricted and controlled
+
+No system is completely secure. You are responsible for keeping your password confidential.
+
+---
+
+## 9. Children
+
+Feeder Fishing Competition is not directed at children under 13. We do not knowingly collect data from children under 13. If you believe we have collected such data, please contact us so we can remove it.
+
+---
+
+## 10. Changes to This Policy
+
+We may update this Privacy Policy from time to time. Changes will be posted in the app or on this page, with an updated "Last updated" date. Continued use of the app after changes means you accept the updated policy.
+
+---
+
+## 11. Contact Us
+
+For privacy-related questions, data requests, or account deletion support:
+
+- **Email:** [Your contact email]
+- **In-app:** Profile → Settings → Contact / Support
+
+---
+
+*Feeder Fishing Competition – Compete. Fish. Win.*
